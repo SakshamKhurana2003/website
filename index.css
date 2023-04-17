@@ -1,0 +1,54 @@
+*{
+    background-color: black;
+}
+header h1{
+    background-color: yellow;
+    padding: 40px;
+    text-align: center;
+    font-size: 60px;
+    color: black;
+}
+h2,h3{
+    color: yellow;
+    text-align: center;
+}
+img{
+    padding: 5px;
+    
+}
+a{
+    color: yellow;
+    padding: 20px;
+    text-decoration: none;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    padding: 10px;
+    text-decoration: none;
+    color: yellow;
+}
+ footer a{
+    float: left;
+    color: yellow;
+    padding: 10px;
+    text-decoration: none;
+}
+main section{
+    padding: 5px;
+}
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+p{
+    color: yellow;
+}
+#Founder{
+    padding-left: 35%;
+}
+span{
+    color: yellow;
+}
